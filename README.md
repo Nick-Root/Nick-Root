@@ -1,3 +1,4 @@
+### Hello! Im Nick Root, a Full Stack Developer from a small town in Connecticut
 
 - 🔭  I’m currently working on adding features to Raddit.
 - 🌱  I’m currently studying TypeScript.
