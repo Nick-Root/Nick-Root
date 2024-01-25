@@ -1,4 +1,5 @@
 ### Hi there 👋
+![download](https://github.com/Nick-Root/Nick-Root/assets/135935639/0be8c399-72f6-43f7-b55b-13595774ce9c)
 
 <!--
 **Nick-Root/Nick-Root** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
