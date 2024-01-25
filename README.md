@@ -1,7 +1,4 @@
 ### Hi there 👋
-![css3-logo-png-transparent](https://github.com/Nick-Root/Nick-Root/assets/135935639/0f250085-c976-47c1-8f65-e28cc86bd83d)
-![HTML5_logo_and_wordmark svg](https://github.com/Nick-Root/Nick-Root/assets/135935639/62b41fee-4330-49e6-8364-55b6f9551809)
-![docker-icon-512x438-ga1hb37h](https://github.com/Nick-Root/Nick-Root/assets/135935639/e623b34d-0847-4641-8936-d74341e4f5d2)
 
 <img align="left" alt="JavaScript" width="30px" height="30px" src="https://github.com/Nick-Root/Nick-Root/assets/135935639/0be8c399-72f6-43f7-b55b-13595774ce9c">
 <img align="left" alt="JavaScript" width="30px" height="30px" src="https://github.com/Nick-Root/Nick-Root/assets/135935639/33fc5529-cbba-4279-aecc-b201dc9aa6fb">
