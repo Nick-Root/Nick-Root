@@ -1,4 +1,14 @@
 
+- 🔭  I’m currently working on adding features to Raddit.
+- 🌱  I’m currently studying TypeScript.
+- 👯  I’m looking to collaborate on a full stack web page.
+- 💬  Ask me about my current full stack applications!
+- ⚡  Fun fact: I enjoy exercising, longboarding, and playing videogames for way too long.
+
+## Contact Me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nick-root-266006274)
+
+## Technologies Used
 <p align = "center">
 <img align="left" alt="JavaScript" width="40px" height="40px" src="https://github.com/Nick-Root/Nick-Root/assets/135935639/0be8c399-72f6-43f7-b55b-13595774ce9c">
 <img align="left" alt="JavaScript" width="40px" height="40px" src="https://github.com/Nick-Root/Nick-Root/assets/135935639/e5e49b31-bd5b-4b67-9e44-6426e43834ae">
