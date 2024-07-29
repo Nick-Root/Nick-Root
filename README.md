@@ -1,6 +1,6 @@
 ### Hello! I'm Nick Root, a Full Stack Developer from a small town in Connecticut!
 
-#I am a graduate of App Academy's immersive and instense full-time Software Engineering course. 
+I am a graduate of App Academy's immersive and instense full-time Software Engineering course. 
 
 - 🔭  I’m currently working on a website for a friend's business.
 - 🌱  I’m currently studying new programming languages.
