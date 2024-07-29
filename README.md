@@ -2,11 +2,11 @@
 
 #I am a graduate of App Academy's immersive and instense full-time Software Engineering course. 
 
-- 🔭  I’m currently working on adding features to Raddit.
-- 🌱  I’m currently studying TypeScript.
+- 🔭  I’m currently working on a website for a friend's business.
+- 🌱  I’m currently studying new programming languages.
 - 👯  I’m looking to collaborate on a full stack web page.
 - 💬  Ask me about my current full stack applications!
-- ⚡  Fun fact: I enjoy exercising, longboarding, and playing videogames for way too long.
+- ⚡  Fun fact: I enjoy going to the gym, longboarding, and playing videogames.
 
 ## Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nick-root-266006274)
